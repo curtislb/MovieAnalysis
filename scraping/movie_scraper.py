@@ -11,7 +11,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, lik
 IMDB_API_URL = 'http://app.imdb.com/title/maindetails?tconst=%s'
 
 # list of movie IDs (one per line)
-MOVIE_IDS_FILE = 'movie_ids_test.txt'
+MOVIE_IDS_FILE = 'movie_ids.list'
 
 # output file
 OUTPUT_JSON_FILE = 'movies.bigdata'
@@ -24,8 +24,7 @@ with open(MOVIE_IDS_FILE, 'r') as f:
 
 # download movie info
 start_time = time()
-with open(OUTPUT_JSON_FILE, 'w') as f:
-    f.write('[')
+with open(OUTPUT_JSON_FILE, 'a') as f:
     for i, movie_ID in enumerate(movie_IDs):
         api_URL = IMDB_API_URL % movie_ID
         request = urllib2.Request(api_URL)
@@ -34,11 +33,9 @@ with open(OUTPUT_JSON_FILE, 'w') as f:
         movie_data_json = json.load(opener.open(request))
         
         # print to screen
-        print '%d: %s' % ((i + 1), movie_data_json['data']['title'])
+        print ('%d: %s (%s)' % ((i + 1), movie_data_json['data']['title'], movie_ID)).encode('latin1')
         
         movie_data_string = json.dumps(movie_data_json)
         f.write(movie_data_string)
-        if i < (len(movie_IDs) - 1):
-            f.write(',')
-    f.write(']')
+        f.write(',')
 print 'Time taken: %f s' % (time() - start_time)
