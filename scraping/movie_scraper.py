@@ -1,7 +1,7 @@
 import json
 import urllib2
 import sys
-from time import time
+from time import time, sleep
 
 # a seemingly reasonable user agent
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36'
@@ -14,7 +14,7 @@ IMDB_API_URL = 'http://app.imdb.com/title/maindetails?tconst=%s'
 MOVIE_IDS_FILE = 'movie_ids.list'
 
 # output file
-OUTPUT_JSON_FILE = 'movies.bigdata'
+OUTPUT_JSON_FILE = 'movies2.bigdata'
 
 # load movie IDs
 movie_IDs = []
@@ -36,6 +36,5 @@ with open(OUTPUT_JSON_FILE, 'a') as f:
         print ('%d: %s (%s)' % ((i + 1), movie_data_json['data']['title'], movie_ID)).encode('latin1')
         
         movie_data_string = json.dumps(movie_data_json)
-        f.write(movie_data_string)
-        f.write(',')
+        f.write('%s\n' % movie_data_string)
 print 'Time taken: %f s' % (time() - start_time)
