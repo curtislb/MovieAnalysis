@@ -1,0 +1,142 @@
+2178 movies
+
+Topic 0: love young father woman king becom help
+Topic 1: film life stori movi work time follow
+Topic 2: life father mother famili year young son
+Topic 3: team new angel game win get lo
+Topic 4: get go find one money take make
+Topic 5: jack love man work two one find
+Topic 6: school friend high student get go girl
+Topic 7: murder kill polic cop help investig prison
+Topic 8: new find world man year one life
+Topic 9: war fight earth one must kill power
+
+0
+Hamlet (1990) [tt0099726]
+Young Catherine (1991) [tt0103311]
+Braveheart (1995) [tt0112573]
+The Commitments (1991) [tt0101605]
+Undefeatable (1993) [tt0111552]
+The Portrait of a Lady (1996) [tt0117364]
+Holy Smoke (1999) [tt0144715]
+King Ralph (1991) [tt0102216]
+Tess of the D'Urbervilles (1998) [tt0126100]
+The Hunchback of Notre Dame (1996) [tt0116583]
+6.3602484472
+
+1
+The Trench (1999) [tt0161010]
+Plump Fiction (1997) [tt0117350]
+Carmen Miranda: Bananas Is My Business (1995) [tt0109381]
+The Typewriter, the Rifle & the Movie Camera (1996) [tt0118004]
+Cinderella (1997) [tt0128996]
+The Crucible (1996) [tt0115988]
+Hitman Hart: Wrestling with Shadows (1998) [tt0179218]
+Life of Python (1990) [tt0329296]
+Ready to Wear (1994) [tt0110907]
+From the Journals of Jean Seberg (1995) [tt0113125]
+6.86931034483
+
+2
+Nine Months (1995) [tt0113986]
+A River Runs Through It (1992) [tt0105265]
+Fried Green Tomatoes (1991) [tt0101921]
+Secrets & Lies (1996) [tt0117589]
+Threesome (1994) [tt0111418]
+A Map of the World (1999) [tt0160513]
+Hum Aapke Hain Koun...! (1994) [tt0110076]
+Sabrina the Teenage Witch (1996) [tt0117534]
+High Art (1998) [tt0139362]
+Fools Rush In (1997) [tt0119141]
+6.3393442623
+
+3
+Days of Thunder (1990) [tt0099371]
+Ed (1996) [tt0116165]
+The Mighty Ducks (1992) [tt0104868]
+Major League: Back to the Minors (1998) [tt0120742]
+D2: The Mighty Ducks (1994) [tt0109520]
+To Wong Foo Thanks for Everything, Julie Newmar (1995) [tt0114682]
+Johnny Tsunami (1999) [tt0206064]
+Little Big League (1994) [tt0110363]
+Last Action Hero (1993) [tt0107362]
+Sunset Park (1996) [tt0117784]
+6.05274725275
+
+4
+A Simple Plan (1998) [tt0120324]
+Red Rock West (1993) [tt0105226]
+The Great White Hype (1996) [tt0116448]
+Mo' Money (1992) [tt0104897]
+Dirty Work (1998) [tt0120654]
+Taking Care of Business (1990) [tt0103035]
+You've Got Mail (1998) [tt0128853]
+Phoenix (1998) [tt0119892]
+Ransom (1996) [tt0117438]
+Cadillac Man (1990) [tt0099204]
+6.27377622378
+
+5
+The Doctor (1991) [tt0101746]
+Speechless (1994) [tt0111256]
+Patch Adams (1998) [tt0129290]
+Livin' Large! (1991) [tt0102322]
+Prelude to a Kiss (1992) [tt0105165]
+Faithful (1996) [tt0116269]
+George Carlin: Doin' It Again (1990) [tt0246642]
+Article 99 (1992) [tt0101371]
+Deceived (1991) [tt0101694]
+Jack Frost (1998) [tt0141109]
+6.27403846154
+
+6
+Can't Hardly Wait (1998) [tt0127723]
+Rich Girl (1991) [tt0100488]
+Class of 1999 (1990) [tt0099277]
+House Party 2 (1991) [tt0102065]
+Class Act (1992) [tt0103978]
+Fear of a Black Hat (1993) [tt0106880]
+High School High (1996) [tt0116531]
+I Want You (1998) [tt0119347]
+Puddle Cruiser (1996) [tt0144557]
+I Know What You Did Last Summer (1997) [tt0119345]
+5.94366197183
+
+7
+Double Jeopardy (1999) [tt0150377]
+Bird on a Wire (1990) [tt0099141]
+Q & A (1990) [tt0100442]
+The Mod Squad (1999) [tt0120757]
+Gang Related (1997) [tt0118900]
+The Replacement Killers (1998) [tt0120008]
+Jade (1995) [tt0113451]
+The Fugitive (1993) [tt0106977]
+The Negotiator (1998) [tt0120768]
+Prime Suspect: Inner Circles (1995) [tt0114180]
+6.16742081448
+
+8
+While You Were Sleeping (1995) [tt0114924]
+FernGully: The Last Rainforest (1992) [tt0104254]
+Homeward Bound: The Incredible Journey (1993) [tt0107131]
+Wild America (1997) [tt0120512]
+Once Upon a Forest (1993) [tt0107745]
+Toy Story (1995) [tt0114709]
+Mighty Joe Young (1998) [tt0120751]
+Graveyard Shift (1990) [tt0099697]
+Krippendorf's Tribe (1998) [tt0120725]
+At First Sight (1999) [tt0132512]
+6.29879518072
+
+9
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) [tt0103060]
+Virus (1999) [tt0120458]
+Mortal Kombat: Annihilation (1997) [tt0119707]
+Nick Fury: Agent of Shield (1998) [tt0119781]
+Navy Seals (1990) [tt0100232]
+Turbo: A Power Rangers Movie (1997) [tt0120389]
+Universal Soldier (1992) [tt0105698]
+The Tuskegee Airmen (1995) [tt0114745]
+Captain America (1990) [tt0103923]
+Executive Decision (1996) [tt0116253]
+6.20334572491

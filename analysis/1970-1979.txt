@@ -1,0 +1,142 @@
+1053
+
+Topic 0: life year old love famili meet woman
+Topic 1: war american world armi german meet british
+Topic 2: film life stori movi music base day
+Topic 3: murder find kill investig one polic tri
+Topic 4: one go friend school two get take
+Topic 5: becom time year work want howev new
+Topic 6: get make two money go one way
+Topic 7: find young human travel becom search new
+Topic 8: love young find man want take woman
+Topic 9: town escap wife take man kill tri
+
+0
+Strangers: The Story of a Mother and Daughter (1979) [tt0079956]
+Ginger in the Morning (1974) [tt0070107]
+House Calls (1978) [tt0077699]
+Sparkle (1976) [tt0075249]
+Black Girl (1972) [tt0068280]
+The Hireling (1973) [tt0070180]
+Ali: Fear Eats the Soul (1974) [tt0071141]
+Heartland (1979) [tt0082508]
+Sunshine (1973) [tt0070751]
+Audrey Rose (1977) [tt0075704]
+6.74139534884
+
+1
+Gray Lady Down (1978) [tt0077629]
+The Cassandra Crossing (1976) [tt0074292]
+The Execution of Private Slovik (1974) [tt0071477]
+MacArthur (1977) [tt0076342]
+Force 10 from Navarone (1978) [tt0077572]
+For the Love of Benji (1977) [tt0076044]
+Go Tell the Spartans (1978) [tt0077617]
+Farewell to Manzanar (1976) [tt0074518]
+Twilight's Last Gleaming (1977) [tt0076845]
+Alien (1979) [tt0078748]
+6.37454545455
+
+2
+Richard Pryor: Live in Concert (1979) [tt0079807]
+Brother Sun, Sister Moon (1972) [tt0069824]
+Semi-Tough (1977) [tt0078227]
+The Hindenburg (1975) [tt0073113]
+The Happy Hooker Goes to Washington (1977) [tt0076125]
+The Last Waltz (1978) [tt0077838]
+Lenny (1974) [tt0071746]
+Scum (1977) [tt0200095]
+Scum (1979) [tt0079871]
+Godspell (1973) [tt0070121]
+6.752
+
+3
+Mr. Ricco (1975) [tt0073411]
+The Seven-Per-Cent Solution (1976) [tt0075194]
+Murder by Decree (1979) [tt0079592]
+The Laughing Policeman (1973) [tt0070292]
+Deep Red (1975) [tt0073582]
+McQ (1974) [tt0071824]
+The Big Fix (1978) [tt0077233]
+Murder on the Orient Express (1974) [tt0071877]
+Firepower (1979) [tt0079153]
+The Parallax View (1974) [tt0071970]
+6.40555555556
+
+4
+Animal House (1978) [tt0077975]
+Gus (1976) [tt0074599]
+The Bad News Bears Go to Japan (1978) [tt0077199]
+The Year Without a Santa Claus (1974) [tt0072424]
+Meatballs (1979) [tt0079540]
+Viva Knievel! (1977) [tt0076890]
+The Bad News Bears (1976) [tt0074174]
+One on One (1977) [tt0076500]
+The Gumball Rally (1976) [tt0074597]
+The Cheerleaders (1973) [tt0068364]
+6.37303370787
+
+5
+Moonrunners (1975) [tt0071854]
+Rocky II (1979) [tt0079817]
+Ilsa the Tigress of Siberia (1977) [tt0078398]
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson (1976) [tt0074254]
+Pat Garrett & Billy the Kid (1973) [tt0070518]
+Leadbelly (1976) [tt0074781]
+The Offence (1972) [tt0070468]
+Detroit 9000 (1973) [tt0069966]
+The Lord's of Flatbush (1974) [tt0071772]
+The Iceman Cometh (1973) [tt0070212]
+6.44716981132
+
+6
+The Seven-Ups (1973) [tt0070672]
+The Friends of Eddie Coyle (1973) [tt0070077]
+Hard Times (1975) [tt0073092]
+Gold (1974) [tt0071566]
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler (1973) [tt0070079]
+Herbie Goes to Monte Carlo (1977) [tt0076137]
+White Lightning (1973) [tt0070915]
+The Mack (1973) [tt0070350]
+Who'll Stop the Rain (1978) [tt0078490]
+The Littlest Horse Thieves (1976) [tt0076320]
+6.61769911504
+
+7
+Prophecy (1979) [tt0079758]
+The Island of Dr. Moreau (1977) [tt0076210]
+The Call of the Wild (1972) [tt0069197]
+Nosferatu the Vampyre (1979) [tt0079641]
+Black Snake (1973) [tt0069796]
+The Three Musketeers (1973) [tt0072281]
+Siddhartha (1972) [tt0070689]
+At the Earth's Core (1976) [tt0074157]
+Grizzly (1976) [tt0074593]
+Son of Dracula (1974) [tt0072189]
+6.23663366337
+
+8
+Cannibal Girls (1973) [tt0069841]
+Bram Stoker's Dracula (1974) [tt0070003]
+Emmanuelle (1974) [tt0071464]
+The Great Gatsby (1974) [tt0071577]
+Dona Flor and Her Two Husbands (1976) [tt0077452]
+Images (1972) [tt0068732]
+The Mother and the Whore (1973) [tt0070359]
+Les bronzés font du ski (1979) [tt0078907]
+Black Shampoo (1976) [tt0074214]
+Once Is Not Enough (1975) [tt0073190]
+6.54583333333
+
+9
+Don't Torture a Duckling (1972) [tt0069019]
+Blood in the Streets (1973) [tt0073626]
+Hot Potato (1976) [tt0074646]
+The China Syndrome (1979) [tt0078966]
+The Macahans (1976) [tt0074834]
+End of the World (1977) [tt0075990]
+Breakout (1975) [tt0072737]
+A Reason to Live, a Reason to Die (1972) [tt0069159]
+The Grand Duel (1972) [tt0068657]
+Vigilante Force (1976) [tt0075393]
+6.38369565217

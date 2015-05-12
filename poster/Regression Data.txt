@@ -1,0 +1,32 @@
+Directors
+
+1.14917775864 -0.2388012437 0.357000112534
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.15500295445 -0.251081611474 0.0869998931885
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+1.15330462496 -0.247486340035 0.0410001277924
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+   
+Actors
+
+1.15136545328 -0.243315324557 19.0339999199
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.16872842957 -0.277013110373 14.8959999084
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+1.16730672955 -0.273951743943 3.23500013351
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+   
+   
+^^^^^^^^^^^^^^ 5-fold cross validation ^^^^^^^^^^^^^^
+-----------------------------------------------------
+
+Naive way (average rating), data set divided into 80%/20% train/tets (no 5-fold CV)
+
+rmse = 1.33552259831
+r2 = -0.712179244645

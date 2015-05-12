@@ -1,0 +1,142 @@
+1564 movies
+
+Topic 0: film life movi stori play set time
+Topic 1: young take father one kill famili hous
+Topic 2: life year get time famili father friend
+Topic 3: school high student girl get colleg help
+Topic 4: war american prison stori base kill u
+Topic 5: get new take go tri want work
+Topic 6: love woman life husband becom fall son
+Topic 7: new show york becom begin play one
+Topic 8: polic murder find kill drug killer detect
+Topic 9: find earth use world alien one group
+
+0
+Camelot (1982) [tt0301078]
+The Black Stallion Returns (1983) [tt0085248]
+Testimony (1988) [tt0096250]
+Another Country (1984) [tt0086904]
+Imagine: John Lennon (1988) [tt0095360]
+Twilight Zone: The Movie (1983) [tt0086491]
+John Huston: The Man, the Movies, the Maverick (1988) [tt0095408]
+Frances (1982) [tt0083967]
+Great Balls of Fire! (1989) [tt0097457]
+That's Dancing! (1985) [tt0090152]
+6.63652173913
+
+1
+Clownhouse (1989) [tt0094886]
+Paris, Texas (1984) [tt0087884]
+A Nightmare on Elm Street 5: The Dream Child (1989) [tt0097981]
+Flesh+Blood (1985) [tt0089153]
+Metalstorm: The Destruction of Jared-Syn (1983) [tt0085935]
+A Nightmare on Elm Street 2: Freddy's Revenge (1985) [tt0089686]
+Pumpkinhead (1988) [tt0095925]
+The Toxic Avenger Part II (1989) [tt0098503]
+Gnomes (1980) [tt0343727]
+Indiana Jones and the Temple of Doom (1984) [tt0087469]
+6.152
+
+2
+Lucas (1986) [tt0091445]
+I Know My First Name Is Steven (1989) [tt0097553]
+Walter (1982) [tt0383046]
+Misunderstood (1984) [tt0087730]
+Butterfly (1982) [tt0082122]
+Promise (1986) [tt0091795]
+September (1987) [tt0093940]
+Uncle Buck (1989) [tt0098554]
+Christmas Vacation (1989) [tt0097958]
+Look Who's Talking (1989) [tt0097778]
+6.40512820513
+
+3
+High School U.S.A. (1983) [tt0085679]
+Teachers (1984) [tt0088242]
+Caveman (1981) [tt0082146]
+How I Got Into College (1989) [tt0097530]
+Pretty in Pink (1986) [tt0091790]
+Stand and Deliver (1988) [tt0094027]
+Joy of Sex (1984) [tt0087513]
+Slaughter High (1986) [tt0091969]
+Cheerleader Camp (1988) [tt0092744]
+My Tutor (1983) [tt0085980]
+5.93305785124
+
+4
+Glory (1989) [tt0097441]
+The Dirty Dozen: Next Mission (1985) [tt0089026]
+Never Say Never Again (1983) [tt0086006]
+Rambo III (1988) [tt0095956]
+Firefox (1982) [tt0083943]
+The Final Option (1982) [tt0083941]
+Countdown to War (1989) [tt0204980]
+Full Metal Jacket (1987) [tt0093058]
+Red Scorpion (1988) [tt0098180]
+The Big Red One (1980) [tt0080437]
+6.59205298013
+
+5
+The Trial of the Incredible Hulk (1989) [tt0098512]
+Rhinestone (1984) [tt0088001]
+Twelfth Night (1980) [tt0081668]
+The Sting II (1983) [tt0086370]
+Death Wish II (1982) [tt0082250]
+Used Cars (1980) [tt0081698]
+Death Wish 4: The Crackdown (1987) [tt0092857]
+In God We Tru$t (1980) [tt0080917]
+Cannonball Run II (1984) [tt0087032]
+Rappin' (1985) [tt0089883]
+6.1592
+
+6
+Worth Winning (1989) [tt0098678]
+A Tale of Two Cities (1980) [tt0081595]
+Skin Deep (1989) [tt0098343]
+Shadowlands (1985) [tt0090005]
+She's Gotta Have It (1986) [tt0091939]
+The Scarlet Pimpernel (1982) [tt0084637]
+Valmont (1989) [tt0098575]
+Summer Lovers (1982) [tt0084737]
+A Room with a View (1985) [tt0091867]
+The Bostonians (1984) [tt0086992]
+6.57236842105
+
+7
+Listen to Me (1989) [tt0097756]
+George Carlin: Carlin on Campus (1984) [tt0248828]
+The Cotton Club (1984) [tt0087089]
+Shock Treatment (1981) [tt0083067]
+Pope John Paul II (1984) [tt0087931]
+Jinxed! (1982) [tt0084173]
+Bull Durham (1988) [tt0094812]
+Tootsie (1982) [tt0084805]
+Richard Pryor: Live on the Sunset Strip (1982) [tt0084597]
+The Color of Money (1986) [tt0090863]
+6.3975308642
+
+8
+Murphy's Law (1986) [tt0091575]
+Gorky Park (1983) [tt0085615]
+Suspect (1987) [tt0094082]
+City Heat (1984) [tt0087062]
+Lethal Weapon (1987) [tt0093409]
+Shakedown (1988) [tt0096087]
+Police Academy 6: City Under Siege (1989) [tt0098105]
+Fatal Beauty (1987) [tt0093011]
+Colors (1988) [tt0094894]
+Music Box (1989) [tt0100211]
+6.3603960396
+
+9
+My Science Project (1985) [tt0089652]
+Mad Max 2: The Road Warrior (1981) [tt0082694]
+The Heroes (1988) [tt0095297]
+V (1983) [tt0085106]
+976-EVIL (1988) [tt0094597]
+Life Story (1987) [tt0093815]
+Howling III (1987) [tt0093227]
+Lifeforce (1985) [tt0089489]
+The Return of Swamp Thing (1989) [tt0098193]
+Day of the Dead (1985) [tt0088993]
+6.04273504274

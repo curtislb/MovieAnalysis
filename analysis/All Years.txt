@@ -1,0 +1,134 @@
+NAIVE METHOD
+
+RMSE: 1.11301531288
+R^2 SCORE: -9.46228322234
+
+ACTORS ONLY
+
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.15136545328 -0.243315324557 17.9240000248
+
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+1.16872842957 -0.277013110373 13.0989999771
+
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+1.16730672955 -0.273951743943 3.61100006104
+
+ElasticNet(alpha=0.01, copy_X=True, fit_intercept=True, l1_ratio=0.5,
+      max_iter=1000, normalize=False, positive=False, precompute='auto',
+      tol=0.0001, warm_start=False)
+1.15138057046 -0.243354094455 19.6859998703
+
+PassiveAggressiveRegressor(C=1.0, class_weight=None, epsilon=0.1,
+              fit_intercept=True, loss='epsilon_insensitive', n_iter=5,
+              random_state=None, shuffle=False, verbose=0,
+              warm_start=False)
+1.82876942041 -2.43524308317 0.899000167847
+
+SGDRegressor(alpha=0.01, epsilon=0.1, eta0=0.01, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='invscaling', loss='squared_loss',
+       n_iter=5, penalty='l2', power_t=0.25, random_state=None,
+       shuffle=False, verbose=0, warm_start=False)
+3.30723816064 -9.54725123325 0.835999965668
+
+---
+
+DIRECTORS ONLY
+
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.14917775864 -0.2388012437 0.93700003624
+
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+1.15500295445 -0.251081611474 0.691999912262
+
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+1.15330462496 -0.247486340035 0.732000112534
+
+ElasticNet(alpha=0.01, copy_X=True, fit_intercept=True, l1_ratio=0.5,
+      max_iter=1000, normalize=False, positive=False, precompute='auto',
+      tol=0.0001, warm_start=False)
+1.14918467793 -0.238818891313 1.19900012016
+
+PassiveAggressiveRegressor(C=1.0, class_weight=None, epsilon=0.1,
+              fit_intercept=True, loss='epsilon_insensitive', n_iter=5,
+              random_state=None, shuffle=False, verbose=0,
+              warm_start=False)
+1.36861556223 -0.746036232431 0.613999843597
+
+SGDRegressor(alpha=0.01, epsilon=0.1, eta0=0.01, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='invscaling', loss='squared_loss',
+       n_iter=5, penalty='l2', power_t=0.25, random_state=None,
+       shuffle=False, verbose=0, warm_start=False)
+4.49918200855 -18.1744493794 0.613000154495
+
+---
+
+ACTORS AND DIRECTORS
+
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.15152435201 -0.244345897398 17.9990000725
+
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+1.11181678613 -0.158911134899 12.617000103
+
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+1.11157081265 -0.158417356427 3.49099993706
+
+ElasticNet(alpha=0.01, copy_X=True, fit_intercept=True, l1_ratio=0.5,
+      max_iter=1000, normalize=False, positive=False, precompute='auto',
+      tol=0.0001, warm_start=False)
+1.15143011956 -0.24416238028 27.9639999866
+
+PassiveAggressiveRegressor(C=1.0, class_weight=None, epsilon=0.1,
+              fit_intercept=True, loss='epsilon_insensitive', n_iter=5,
+              random_state=None, shuffle=False, verbose=0,
+              warm_start=False)
+1.80478744558 -2.38367311706 0.865000009537
+
+SGDRegressor(alpha=0.01, epsilon=0.1, eta0=0.01, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='invscaling', loss='squared_loss',
+       n_iter=5, penalty='l2', power_t=0.25, random_state=None,
+       shuffle=False, verbose=0, warm_start=False)
+3.29149861054 -9.46228322234 0.84500002861
+
+---
+
+BAG OF WORDS
+
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute='auto', tol=0.0001,
+   warm_start=False)
+1.08700419117 0.0432536409906 3.40100002289
+
+LinearRegression(copy_X=True, fit_intercept=True, normalize=False)
+4.45868867078 -15.1669292709 18.6759998798
+
+Ridge(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, solver='auto', tol=0.001)
+4.04457321038 -12.2944339376 9.03400015831
+
+ElasticNet(alpha=0.01, copy_X=True, fit_intercept=True, l1_ratio=0.5,
+      max_iter=1000, normalize=False, positive=False, precompute='auto',
+      tol=0.0001, warm_start=False)
+1.07318991382 0.0674724560964 3.5529999733
+
+PassiveAggressiveRegressor(C=1.0, class_weight=None, epsilon=0.1,
+              fit_intercept=True, loss='epsilon_insensitive', n_iter=5,
+              random_state=None, shuffle=False, verbose=0,
+              warm_start=False)
+2.45522538676 -3.88582869833 0.737999916077
+
+SGDRegressor(alpha=0.01, epsilon=0.1, eta0=0.01, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='invscaling', loss='squared_loss',
+       n_iter=5, penalty='l2', power_t=0.25, random_state=None,
+       shuffle=False, verbose=0, warm_start=False)
+2.66442287475 -4.74904796217 0.776000022888

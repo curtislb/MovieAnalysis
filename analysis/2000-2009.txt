@@ -1,0 +1,142 @@
+3197 movies
+
+Topic 0: get go find new one want life
+Topic 1: famili father mother year old son daughter
+Topic 2: drug agent two prison kill polic murder
+Topic 3: film life stori movi show music new
+Topic 4: world find young stori set power one
+Topic 5: war american u world armi soldier presid
+Topic 6: human discov world save earth time island
+Topic 7: life love young relationship woman stori man
+Topic 8: school high student friend girl team colleg
+Topic 9: find murder kill hous death killer tri
+
+0
+You, Me and Dupree (2006) [tt0463034]
+Eloise at the Plaza (2003) [tt0346932]
+Cow Belles (2006) [tt0489007]
+Sweet Home Alabama (2002) [tt0256415]
+Shaun of the Dead (2004) [tt0365748]
+Road Trip (2000) [tt0215129]
+The Wedding Date (2005) [tt0372532]
+Vulgar (2000) [tt0120467]
+Girl Fever (2002) [tt0265010]
+Once (2006) [tt0907657]
+6.2494
+
+1
+Eastern Promises (2007) [tt0765443]
+The Omen (2006) [tt0466909]
+Nicholas Nickleby (2002) [tt0309912]
+Life-Size (2000) [tt0200809]
+Jolene (2008) [tt0867334]
+The Private Lives of Pippa Lee (2009) [tt1134629]
+The Kite Runner (2007) [tt0419887]
+Blood and Chocolate (2007) [tt0397044]
+Volver (2006) [tt0441909]
+Dream Boy (2008) [tt0889595]
+6.5987704918
+
+2
+The Statement (2003) [tt0340376]
+Torque (2004) [tt0329691]
+Half Past Dead (2002) [tt0297162]
+A Man Apart (2003) [tt0266465]
+Beyond a Reasonable Doubt (2009) [tt1183251]
+Hero Wanted (2008) [tt0977214]
+What's the Worst That Could Happen? (2001) [tt0161083]
+Assault on Precinct 13 (2005) [tt0398712]
+Faceless (2006) [tt0759549]
+Hard Cash (2002) [tt0248640]
+6.21605839416
+
+3
+I Don't Know Jack (2002) [tt0292553]
+Putting It Together (2000) [tt0260305]
+Elvis (2005) [tt0437714]
+As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty (2000) [tt0262240]
+The Visual Bible: The Gospel of John (2003) [tt0377992]
+Syd Barrett: Crazy Diamond (2001) [tt0368147]
+Shadows in the Dark: The Val Lewton Legacy (2005) [tt0475144]
+Gabriel Iglesias: Hot and Fluffy (2007) [tt1082588]
+Jim Gaffigan: Beyond the Pale (2006) [tt0815456]
+Macbeth (2006) [tt0434541]
+6.95182724252
+
+4
+Fire & Ice (2008) [tt1135493]
+Snow Queen (2002) [tt0210294]
+Underworld: Rise of the Lycans (2009) [tt0834001]
+Ice Age (2002) [tt0268380]
+All the Pretty Horses (2000) [tt0149624]
+The Color of Magic (2008) [tt1079959]
+The Lord of the Rings: The Fellowship of the Ring (2001) [tt0120737]
+Tenacious D in The Pick of Destiny (2006) [tt0365830]
+Eragon (2006) [tt0449010]
+Kung Fu Hustle (2004) [tt0373074]
+6.18648648649
+
+5
+9th Company (2005) [tt0417397]
+Conspiracy (2001) [tt0266425]
+Redacted (2007) [tt0937237]
+Fail Safe (2000) [tt0235376]
+The Path to 9/11 (2006) [tt0473404]
+The Pianist (2002) [tt0253474]
+Shake Hands with the Devil (2007) [tt0472562]
+Endgame (2009) [tt1217616]
+Beyond the Gates (2005) [tt0420901]
+One Dead Indian (2006) [tt0437380]
+6.82658959538
+
+6
+Resident Evil (2002) [tt0120804]
+Hollow Man (2000) [tt0164052]
+Spy Kids 2: Island of Lost Dreams (2002) [tt0287717]
+Stranded (2001) [tt0283015]
+Sunshine (2007) [tt0448134]
+AVP: Alien vs. Predator (2004) [tt0370263]
+The Incredible Hulk (2008) [tt0800080]
+The Day the Earth Stood Still (2008) [tt0970416]
+Stealth (2005) [tt0382992]
+K-19: The Widowmaker (2002) [tt0267626]
+6.06380368098
+
+7
+Awake (2007) [tt0211933]
+Damages (2006) [tt0497897]
+Bad Biology (2008) [tt0974977]
+The Truth About Jane (2000) [tt0256459]
+Lie with Me (2005) [tt0418832]
+Kissing Jessica Stein (2001) [tt0264761]
+Mr. Nobody (2009) [tt0485947]
+Undertow (2009) [tt1368491]
+Mike Birbiglia: What I Should Have Said Was Nothing (2008) [tt1188112]
+The Merry Gentleman (2008) [tt0967945]
+6.59585798817
+
+8
+Kids in America (2005) [tt0408961]
+ThanksKilling (2009) [tt1129441]
+Stick It (2006) [tt0430634]
+Stomp the Yard (2007) [tt0775539]
+Center Stage: Turn It Up (2008) [tt1145144]
+There's Only One Jimmy Grimble (2000) [tt0238660]
+Cracks (2009) [tt1183665]
+Go Figure (2005) [tt0447987]
+Dirty Deeds (2005) [tt0407732]
+College (2008) [tt0844671]
+6.0072
+
+9
+Demon Island (2002) [tt0201844]
+Premonition (2007) [tt0477071]
+Sorority Row (2009) [tt1232783]
+Tell No One (2006) [tt0362225]
+Cellular (2004) [tt0337921]
+The Hamiltons (2006) [tt0443527]
+The Convent (2000) [tt0217331]
+The Tigger Movie (2000) [tt0220099]
+Imaginary Heroes (2004) [tt0373024]
+Rampage (2009) [tt1337057]
+5.95650406504

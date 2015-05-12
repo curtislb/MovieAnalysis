@@ -1,0 +1,142 @@
+1295 movies
+
+Topic 0: get go one take find tri life
+Topic 1: find year soon howev father hous son
+Topic 2: stori life film new young world love
+Topic 3: life year world one man first come
+Topic 4: team war agent mission oper u secret
+Topic 5: murder one kill polic killer take young
+Topic 6: world find must power human earth forc
+Topic 7: school friend high student love girl colleg
+Topic 8: father life famili love mother brother jack
+Topic 9: work paul street job nick georg new
+
+0
+Date Night (2010) [tt1279935]
+The Back-up Plan (2010) [tt1212436]
+Jumping the Broom (2011) [tt1640484]
+Cyrus (2010) [tt1336617]
+Something Borrowed (2011) [tt0491152]
+Hall Pass (2011) [tt0480687]
+Martha Marcy May Marlene (2011) [tt1441326]
+Lola Versus (2012) [tt1710417]
+Think Like a Man (2012) [tt1621045]
+Dark Minions (2013) [tt2584096]
+6.14563758389
+
+1
+The Grey (2011) [tt1601913]
+Open Season 3 (2010) [tt1646926]
+The Ward (2010) [tt1369706]
+Unstoppable (2010) [tt0477080]
+Percy Jackson: Sea of Monsters (2013) [tt1854564]
+Percy Jackson & the Olympians: The Lightning Thief (2010) [tt0814255]
+Intruders (2011) [tt1634121]
+Home Alone: The Holiday Heist (2012) [tt2308733]
+Deadfall (2012) [tt1667310]
+The Possession (2012) [tt0431021]
+6.01470588235
+
+2
+Lemmy (2010) [tt1236472]
+Katy Perry: Part of Me (2012) [tt2215719]
+Anonymous (2011) [tt1521197]
+The Victoria's Secret Fashion Show (2011) [tt2049576]
+The Victoria's Secret Fashion Show (2012) [tt2556962]
+Kevin Hart: Seriously Funny (2010) [tt1714196]
+Ethel (2012) [tt2076844]
+Saving Lincoln (2013) [tt2034098]
+All Good Things (2010) [tt1175709]
+Nobody Walks (2012) [tt1907731]
+6.89268292683
+
+3
+No Distance Left to Run (2010) [tt1565434]
+Bill Burr: Let It Go (2010) [tt1717578]
+Bhutto (2010) [tt1524095]
+Senna (2010) [tt1424432]
+Carol Channing: Larger Than Life (2012) [tt1737122]
+16 Wishes (2010) [tt1646876]
+Atlantis: End of a World, Birth of a Legend (2011) [tt1744825]
+About Last Night (2014) [tt1826590]
+Beginners (2010) [tt1532503]
+Evidence (2012) [tt1640218]
+6.7024691358
+
+4
+Seal Team Six: The Raid on Osama Bin Laden (2012) [tt2095605]
+Saints and Soldiers: Airborne Creed (2012) [tt2082415]
+Starship Troopers: Invasion (2012) [tt2085930]
+Zero Dark Thirty (2012) [tt1790885]
+Iron Sky (2012) [tt1034314]
+Olympus Has Fallen (2013) [tt2302755]
+Fair Game (2010) [tt0977855]
+Safe House (2012) [tt1599348]
+The A-Team (2010) [tt0429493]
+Secret Reunion (2010) [tt1535491]
+6.23414634146
+
+5
+Recoil (2011) [tt1839591]
+Bending the Rules (2012) [tt1715320]
+The Courier (2012) [tt0995845]
+Eden (2012) [tt1734433]
+The Frozen Ground (2013) [tt2005374]
+Swelter (2014) [tt2112277]
+Crazy on the Outside (2010) [tt1196134]
+Henry's Crime (2010) [tt1220888]
+Blitz (2011) [tt1297919]
+House of the Rising Sun (2011) [tt1788383]
+5.83942307692
+
+6
+Zombie Apocalypse (2011) [tt1876547]
+The Lost Future (2010) [tt1615091]
+Great Expectations (2012) [tt1836808]
+Rise of the Zombies (2012) [tt2236182]
+Rise of the Guardians (2012) [tt1446192]
+Prince of Persia: The Sands of Time (2010) [tt0473075]
+Legion (2010) [tt1038686]
+Man of Steel (2013) [tt0770828]
+Iron Man 3 (2013) [tt1300854]
+Immortals (2011) [tt1253864]
+6.14846938776
+
+7
+Dirty Teacher (2013) [tt2641874]
+The Final (2010) [tt1390535]
+Here Comes the Boom (2012) [tt1648179]
+A Good Old Fashioned Orgy (2011) [tt1231586]
+The First Time (2012) [tt1763303]
+Cyberbully (2011) [tt1930315]
+Truth or Die (2012) [tt1838722]
+Teen Spirit (2011) [tt1845866]
+Triple Dog (2010) [tt1232838]
+Lemonade Mouth (2011) [tt1648204]
+6.08301886792
+
+8
+The Twilight Saga: Eclipse (2010) [tt1325004]
+Chatroom (2010) [tt1319704]
+The Comedian at The Friday (2010) [tt1583753]
+Hello I Must Be Going (2012) [tt2063666]
+Tiny Furniture (2010) [tt1570989]
+The Preacher's Daughter (2013) [tt1724982]
+Womb (2010) [tt1216520]
+Shanghai (2010) [tt1092634]
+A Bag of Hammers (2011) [tt1509787]
+Footloose (2011) [tt1068242]
+6.41
+
+9
+Goltzius and the Pelican Company (2012) [tt1851006]
+Jobs (2013) [tt2357129]
+The Arbor (2010) [tt1623008]
+Temptation: Confessions of a Marriage Counselor (2013) [tt2070862]
+Serena (2014) [tt1247690]
+Good Deeds (2012) [tt1885265]
+Savages (2012) [tt1615065]
+How Do You Know (2010) [tt1341188]
+Step Up Revolution (2012) [tt1800741]
+To the Wonder (2012) [tt1595656]
+6.10540540541
